@@ -11,5 +11,5 @@ I turned this picture of Hongdae on AI and found that my handbag came out accura
 However, the repair swords and characters were not included in the data, so there were no similar scissors at all.
 It seems like there's less data, but Ai is amazing
 
-<H1>Como datas</H1>
-[COMO](https://cocodataset.org/#explore) has a lot of datas.
+<H1>Coco dataset</H1>
+[COCO](https://cocodataset.org/#explore) has a lot of dataset
